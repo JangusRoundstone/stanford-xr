@@ -72,3 +72,14 @@ Experience the full narrative and interaction flow of **Digital Anubis** in our 
 https://vimeo.com/1137435939?share=copy&fl=sv&fe=ci
 
 ---
+<p align="center">
+  <a href="https://vimeo.com/1137435939?share=copy&fl=sv&fe=ci" target="_blank">
+    <img src="https://github.com/Nasim-Ahmed-CS/stanford-xr/blob/main/gallery%20(1).jpg" 
+         alt="Digital Anubis Video Preview" 
+         width="80%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://vimeo.com/1137435939?share=copy&fl=sv&fe=ci"><b>▶️ Watch the Demo Video</b></a>
+</p>
