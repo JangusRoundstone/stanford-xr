@@ -57,14 +57,6 @@ Install these in Unity Hub before opening the project.
 - Newtonsoft.Json
 
 ---
-
-## ▶️ Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/<your-team>/stanford-xr.git
-
-
 ---
 
 ## 🎥 Demo Video
