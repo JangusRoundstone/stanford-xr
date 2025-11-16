@@ -63,3 +63,15 @@ Install these in Unity Hub before opening the project.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/<your-team>/stanford-xr.git
+
+
+---
+
+## 🎥 Demo Video
+
+Experience the full narrative and interaction flow of **Digital Anubis** in our 1-minute cinematic intro + VR walkthrough:
+
+👉 **Watch the video on Vimeo:**  
+https://vimeo.com/1137435939?share=copy&fl=sv&fe=ci
+
+---
