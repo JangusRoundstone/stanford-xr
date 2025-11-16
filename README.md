@@ -6,11 +6,23 @@
 ---
 
 ## 🌌 Overview
-**Digital Anubis** is an immersive XR experience that lets users revisit curated digital legacies of loved ones who have passed away. Guided by a mediating entity (“Digital Anubis”), users enter a calming **Digital Memory Garden** where they can explore photos, videos, texts, and initiate AI-mediated conversations.
+**Digital Anubis** is an immersive XR experience that allows users to revisit, reinterpret, and emotionally process curated digital legacies of loved ones who have passed away. The system brings together **VR storytelling**, **AI-mediated dialogue**, **memory curation**, and **rich multimodal interaction** to create a respectful, emotionally grounded space for remembrance.
 
-Built during the **Stanford XR Hackathon (2025)**.
+Users begin with a **1-minute emotional cinematic intro**, setting the tone for grief, memory, and connection. They are then guided by **Digital Anubis**, a gentle mediating entity who helps them navigate the memories, contextualize emotions, and safely interact with an AI representation built from the deceased’s digital traces. Digital Anubis does *not* impersonate the deceased directly; instead, it **mediates**, filters, and reframes the information to protect the emotional wellbeing of the bereaved.
 
----
+Inside the **Digital Memory Garden**, users can:
+
+- View and interact with curated **photos**, **videos**, and **text-based legacies** placed spatially around the environment  
+- Trigger **voice-based interactions** through a VR “Tap to Start Listening” mechanic  
+- Hear responses through **AI-generated speech** delivered via WAV audio playback  
+- Watch legacy videos through a custom **VR video player** activated with an in-world start button  
+- Experience a mediated, emotionally safe conversation through real-time LLM responses  
+- Receive guidance and emotional framing from Digital Anubis throughout the journey  
+
+The system is also designed as a foundation for future **multimodal extensions**, including conceptual integration with **Afference neuro-haptic rings**—envisioned to replay physical activity signatures (e.g., typing vibrations extracted from legacy videos) to enhance memory storytelling through touch.
+
+Built during the **Stanford XR Hackathon (2025)**, this prototype explores how ethical, curated, AI-augmented afterlife interactions can support healing, reflection, and the confrontation of presence/absence in a modern digital world.
+
 
 ## ✨ Features
 - **Digital Memory Garden** — immersive 3D world for legacy exploration  
