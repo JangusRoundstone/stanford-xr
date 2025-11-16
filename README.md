@@ -83,3 +83,6 @@ https://vimeo.com/1137435939?share=copy&fl=sv&fe=ci
 
 
 Additional assests that are needed for the project can be found here: https://drive.google.com/file/d/1azkNK6k0Hgbcj-Qe1LvUEd15buOUVvUt/view?usp=sharing
+
+
+Find on devpost: https://devpost.com/software/digital-anubis
