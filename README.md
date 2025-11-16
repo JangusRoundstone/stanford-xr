@@ -80,3 +80,6 @@ https://vimeo.com/1137435939?share=copy&fl=sv&fe=ci
 <p align="center">
   <a href="https://vimeo.com/1137435939?share=copy&fl=sv&fe=ci"><b>▶️ Watch the Demo Video</b></a>
 </p>
+
+
+Additional assests that are needed for the project can be found here: https://drive.google.com/file/d/1azkNK6k0Hgbcj-Qe1LvUEd15buOUVvUt/view?usp=sharing
