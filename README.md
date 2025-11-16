@@ -2,7 +2,7 @@
   <img src="https://github.com/Nasim-Ahmed-CS/stanford-xr/blob/main/gallery%20(1).jpg" alt="Digital Anubis Header Image" width="100%"/>
 </p>
 
-# (Anu) Digital Anubis — Stanford XR Hackathon Project
+# Anu (Digital Anubis) — Stanford XR Hackathon Project
 *A VR system for ethical, emotionally guided interaction with digital legacies.*
 
 ---
